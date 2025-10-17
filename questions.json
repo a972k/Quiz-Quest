@@ -1,0 +1,158 @@
+{
+    "Science": [
+      {
+        "q": "What is the chemical symbol for water?",
+        "o": ["H2O", "O2", "CO2", "NaCl"],
+        "a": "H2O"
+      },
+      {
+        "q": "What planet is known as the Red Planet?",
+        "o": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "a": "Mars"
+      },
+      {
+        "q": "What is the powerhouse of the cell?",
+        "o": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+        "a": "Mitochondria"
+      },
+      {
+        "q": "What is the most abundant gas in the Earth's atmosphere?",
+        "o": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+        "a": "Nitrogen"
+      },
+      {
+        "q": "What is the chemical symbol for gold?",
+        "o": ["Au", "Ag", "Pb", "Fe"],
+        "a": "Au"
+      },
+      {
+        "q": "What is the chemical symbol for silver?",
+        "o": ["Au", "Ag", "Pb", "Fe"],
+        "a": "Ag"
+      },
+      {
+        "q": "What is the hardest natural material?",
+        "o": ["Iron", "Diamond", "Tungsten", "Graphene"],
+        "a": "Diamond"
+      },
+      {
+        "q": "What is the most malleable metal?",
+        "o": ["Gold", "Silver", "Copper", "Aluminum"],
+        "a": "Gold"
+      },
+      {
+        "q": "What is the freezing point of water (Celsius)?",
+        "o": ["0°C", "100°C", "-273°C", "32°F"],
+        "a": "0°C"
+      },
+      {
+        "q": "What is the boiling point of water (Celsius)?",
+        "o": ["0°C", "100°C", "-273°C", "32°F"],
+        "a": "100°C"
+      }
+    ],
+    "History": [
+      {
+        "q": "Who was the first President of the United States?",
+        "o": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "a": "George Washington"
+      },
+      {
+        "q": "What year did World War II end?",
+        "o": ["1945", "1939", "1918", "1963"],
+        "a": "1945"
+      },
+      {
+        "q": "Who is credited with discovering America (1492)?",
+        "o": ["Christopher Columbus", "Leif Erikson", "Ferdinand Magellan", "Marco Polo"],
+        "a": "Christopher Columbus"
+      },
+      {
+        "q": "What ancient civilization built the pyramids?",
+        "o": ["Romans", "Greeks", "Egyptians", "Mayans"],
+        "a": "Egyptians"
+      },
+      {
+        "q": "Who was the first person to walk on the moon?",
+        "o": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+        "a": "Neil Armstrong"
+      },
+      {
+        "q": "What was the first country to grant women the right to vote?",
+        "o": ["United States", "New Zealand", "Australia", "Finland"],
+        "a": "New Zealand"
+      },
+      {
+        "q": "Who was the first human to orbit the Earth?",
+        "o": ["John Glenn", "Yuri Gagarin", "Alan Shepard", "Buzz Aldrin"],
+        "a": "Yuri Gagarin"
+      },
+      {
+        "q": "When was the State of Israel established?",
+        "o": ["1948", "1956", "1967", "1973"],
+        "a": "1948"
+      },
+      {
+        "q": "When did the Berlin Wall fall?",
+        "o": ["1989", "1990", "1991", "1988"],
+        "a": "1989"
+      },
+      {
+        "q": "When did the Titanic sink?",
+        "o": ["1912", "1905", "1898", "1923"],
+        "a": "1912"
+      }
+    ],
+    "Pop Culture": [
+      {
+        "q": "Who is known as the King of Pop?",
+        "o": ["Elvis Presley", "Michael Jackson", "Prince", "Madonna"],
+        "a": "Michael Jackson"
+      },
+      {
+        "q": "What movie features a character named Jack Dawson?",
+        "o": ["Titanic", "Avatar", "Inception", "The Revenant"],
+        "a": "Titanic"
+      },
+      {
+        "q": "Who wrote the Harry Potter series?",
+        "o": ["J.K. Rowling", "J.R.R. Tolkien", "Stephen King", "George R.R. Martin"],
+        "a": "J.K. Rowling"
+      },
+      {
+        "q": "What is the highest-grossing film of all time?",
+        "o": ["Avatar", "Titanic", "Star Wars: The Force Awakens", "Avengers: Endgame"],
+        "a": "Avatar"
+      },
+      {
+        "q": "Who painted the Mona Lisa?",
+        "o": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "a": "Leonardo da Vinci"
+      },
+      {
+        "q": "What is the best-selling book series of all time?",
+        "o": ["Harry Potter", "Lord of the Rings", "Goosebumps", "Percy Jackson"],
+        "a": "Harry Potter"
+      },
+      {
+        "q": "Who is the lead singer of the band Queen?",
+        "o": ["Freddie Mercury", "Brian May", "Roger Taylor", "John Deacon"],
+        "a": "Freddie Mercury"
+      },
+      {
+        "q": "What is the name of the fictional African country in Black Panther?",
+        "o": ["Wakanda", "Zamunda", "Genosha", "Krypton"],
+        "a": "Wakanda"
+      },
+      {
+        "q": "Who directed the movie Pulp Fiction?",
+        "o": ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
+        "a": "Quentin Tarantino"
+      },
+      {
+        "q": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+        "o": ["Sherlock Holmes", "Hercule Poirot", "Miss Marple", "Philip Marlowe"],
+        "a": "Sherlock Holmes"
+      }
+    ]
+}
