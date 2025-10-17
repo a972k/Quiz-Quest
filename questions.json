@@ -49,6 +49,151 @@
         "q": "What is the boiling point of water (Celsius)?",
         "o": ["0°C", "100°C", "-273°C", "32°F"],
         "a": "100°C"
+      },
+      {
+        "q": "What force keeps the planets in orbit around the Sun?",
+        "o": ["Electromagnetism", "Gravity", "Strong Nuclear Force", "Friction"],
+        "a": "Gravity"
+      },
+      {
+        "q": "What is the hardest natural substance on Earth?",
+        "o": ["Quartz", "Gold", "Diamond", "Iron"],
+        "a": "Diamond"
+      },
+      {
+        "q": "What is the process by which plants make their own food?",
+        "o": ["Respiration", "Digestion", "Photosynthesis", "Fermentation"],
+        "a": "Photosynthesis"
+      },
+      {
+        "q": "What is the unit of electrical resistance?",
+        "o": ["Volt", "Ampere", "Ohm", "Watt"],
+        "a": "Ohm"
+      },
+      {
+        "q": "Which organelle is known as the 'powerhouse' of the cell?",
+        "o": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic Reticulum"],
+        "a": "Mitochondria"
+      },
+      {
+        "q": "What is absolute zero in Celsius?",
+        "o": ["0°C", "-100°C", "-273.15°C", "100°C"],
+        "a": "-273.15°C"
+      },
+      {
+        "q": "What gas makes up the majority of Earth's atmosphere?",
+        "o": ["Oxygen", "Carbon Dioxide", "Argon", "Nitrogen"],
+        "a": "Nitrogen"
+      },
+      {
+        "q": "What type of wave is sound?",
+        "o": ["Transverse", "Electromagnetic", "Longitudinal", "Surface"],
+        "a": "Longitudinal"
+      },
+      {
+        "q": "Who developed the theory of relativity?",
+        "o": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+        "a": "Albert Einstein"
+      },
+      {
+        "q": "What is the name of the process when a solid turns directly into a gas?",
+        "o": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+        "a": "Sublimation"
+      },
+      {
+        "q": "The periodic table is organized by which atomic property?",
+        "o": ["Atomic Mass", "Number of Neutrons", "Atomic Number", "Density"],
+        "a": "Atomic Number"
+      },
+      {
+        "q": "What pigment gives plants their green color?",
+        "o": ["Carotene", "Anthocyanin", "Xanthophyll", "Chlorophyll"],
+        "a": "Chlorophyll"
+      },
+      {
+        "q": "Which planet is known as the 'Red Planet'?",
+        "o": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "a": "Mars"
+      },
+      {
+        "q": "What is the function of the human body's skeletal system?",
+        "o": ["Oxygen Transport", "Hormone Production", "Support and Protection", "Digestion"],
+        "a": "Support and Protection"
+      },
+      {
+        "q": "What is the chemical formula for table salt?",
+        "o": ["KCl", "H2SO4", "NaCl", "CaCO3"],
+        "a": "NaCl"
+      },
+      {
+        "q": "How many states of matter are traditionally taught?",
+        "o": ["Two", "Three", "Four", "Five"],
+        "a": "Three"
+      },
+      {
+        "q": "What is a major component of a star's energy production?",
+        "o": ["Chemical Reaction", "Nuclear Fission", "Combustion", "Nuclear Fusion"],
+        "a": "Nuclear Fusion"
+      },
+      {
+        "q": "What term is used for the smallest particle of an element?",
+        "o": ["Molecule", "Compound", "Atom", "Cell"],
+        "a": "Atom"
+      },
+      {
+        "q": "In which body part is the cochlea located?",
+        "o": ["Eye", "Nose", "Ear", "Throat"],
+        "a": "Ear"
+      },
+      {
+        "q": "Which scientist is credited with the discovery of penicillin?",
+        "o": ["Louis Pasteur", "Marie Curie", "Alexander Fleming", "Jonas Salk"],
+        "a": "Alexander Fleming"
+      },
+      {
+        "q": "What does 'DNA' stand for?",
+        "o": ["Deoxyribose Nucleic Acid", "Dynamic Nuclear Atom", "Double Nitrogen Acid", "Dinitrogen Atom"],
+        "a": "Deoxyribose Nucleic Acid"
+      },
+      {
+        "q": "What is the speed of light in a vacuum (approximately)?",
+        "o": ["30,000 km/s", "300,000 km/s", "3,000,000 km/s", "300 km/s"],
+        "a": "300,000 km/s"
+      },
+      {
+        "q": "Which instrument is used to measure atmospheric pressure?",
+        "o": ["Thermometer", "Anemometer", "Barometer", "Hygrometer"],
+        "a": "Barometer"
+      },
+      {
+        "q": "What type of organism primarily decomposes dead organic matter?",
+        "o": ["Producer", "Herbivore", "Carnivore", "Decomposer"],
+        "a": "Decomposer"
+      },
+      {
+        "q": "An object in motion tends to stay in motion is an example of which of Newton's laws?",
+        "o": ["First Law", "Second Law", "Third Law", "Law of Gravity"],
+        "a": "First Law"
+      },
+      {
+        "q": "What is the primary function of red blood cells?",
+        "o": ["Fighting Infection", "Clotting Blood", "Transporting Oxygen", "Producing Hormones"],
+        "a": "Transporting Oxygen"
+      },
+      {
+        "q": "What is the Richter scale used to measure?",
+        "o": ["Wind Speed", "Earthquake Magnitude", "Temperature", "Ocean Depth"],
+        "a": "Earthquake Magnitude"
+      },
+      {
+        "q": "Which of these is a noble gas?",
+        "o": ["Chlorine", "Sodium", "Neon", "Carbon"],
+        "a": "Neon"
+      },
+      {
+        "q": "What does the 'k' stand for in the SI unit 'Kelvin'?",
+        "o": ["Kilogram", "Kilo", "Temperature Unit", "The Scientist's Name"],
+        "a": "Temperature Unit"
       }
     ],
     "History": [
@@ -101,6 +246,156 @@
         "q": "When did the Titanic sink?",
         "o": ["1912", "1905", "1898", "1923"],
         "a": "1912"
+      },
+      {
+        "q": "In what year did World War II end?",
+        "o": ["1939", "1941", "1945", "1950"],
+        "a": "1945"
+      },
+      {
+        "q": "Who was the first emperor of Rome?",
+        "o": ["Julius Caesar", "Nero", "Augustus", "Constantine"],
+        "a": "Augustus"
+      },
+      {
+        "q": "The Magna Carta was signed in which country?",
+        "o": ["France", "England", "Italy", "Germany"],
+        "a": "England"
+      },
+      {
+        "q": "Which civilization built the pyramids of Giza?",
+        "o": ["Mesopotamian", "Greek", "Egyptian", "Roman"],
+        "a": "Egyptian"
+      },
+      {
+        "q": "What year is generally considered the start of the French Revolution?",
+        "o": ["1776", "1789", "1804", "1815"],
+        "a": "1789"
+      },
+      {
+        "q": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "o": ["Joseph Stalin", "Mikhail Gorbachev", "Nikita Khrushchev", "Vladimir Lenin"],
+        "a": "Nikita Khrushchev"
+      },
+      {
+        "q": "Which European explorer is credited with discovering the Americas in 1492?",
+        "o": ["Ferdinand Magellan", "Vasco da Gama", "Christopher Columbus", "Marco Polo"],
+        "a": "Christopher Columbus"
+      },
+      {
+        "q": "What famous wall was built to protect China's northern borders?",
+        "o": ["Hadrian's Wall", "Berlin Wall", "The Great Wall", "The Western Wall"],
+        "a": "The Great Wall"
+      },
+      {
+        "q": "The Renaissance period originated in which country?",
+        "o": ["France", "Spain", "Italy", "Germany"],
+        "a": "Italy"
+      },
+      {
+        "q": "What ancient city was famously destroyed by the eruption of Mount Vesuvius in 79 AD?",
+        "o": ["Athens", "Troy", "Pompeii", "Carthage"],
+        "a": "Pompeii"
+      },
+      {
+        "q": "Who wrote 'The Communist Manifesto' with Friedrich Engels?",
+        "o": ["Adam Smith", "Karl Marx", "John Locke", "Thomas Hobbes"],
+        "a": "Karl Marx"
+      },
+      {
+        "q": "What event is considered the start of World War I?",
+        "o": ["The sinking of the Lusitania", "The invasion of Poland", "The assassination of Archduke Franz Ferdinand", "The Battle of the Somme"],
+        "a": "The assassination of Archduke Franz Ferdinand"
+      },
+      {
+        "q": "Which US President delivered the Gettysburg Address?",
+        "o": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Theodore Roosevelt"],
+        "a": "Abraham Lincoln"
+      },
+      {
+        "q": "The Punic Wars were fought between Rome and which other major power?",
+        "o": ["Greece", "Egypt", "Carthage", "Persia"],
+        "a": "Carthage"
+      },
+      {
+        "q": "Who led the Indian independence movement largely through non-violent resistance?",
+        "o": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "Indira Gandhi"],
+        "a": "Mahatma Gandhi"
+      },
+      {
+        "q": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+        "o": ["Pinta", "Santa Maria", "Mayflower", "Discovery"],
+        "a": "Mayflower"
+      },
+      {
+        "q": "Which battle marked the final defeat of Napoleon Bonaparte?",
+        "o": ["Battle of Trafalgar", "Battle of Austerlitz", "Battle of Waterloo", "Battle of Leipzig"],
+        "a": "Battle of Waterloo"
+      },
+      {
+        "q": "What was the period of transition from hand production to machine production called?",
+        "o": ["The Iron Age", "The Middle Ages", "The Industrial Revolution", "The Bronze Age"],
+        "a": "The Industrial Revolution"
+      },
+      {
+        "q": "Who was the queen of Egypt known for her relationships with Julius Caesar and Mark Antony?",
+        "o": ["Nefertiti", "Hatshepsut", "Cleopatra", "Isis"],
+        "a": "Cleopatra"
+      },
+      {
+        "q": "The Cold War was primarily a geopolitical tension between the US and which other superpower?",
+        "o": ["China", "Nazi Germany", "Soviet Union", "Japan"],
+        "a": "Soviet Union"
+      },
+      {
+        "q": "In which decade did the US stock market crash, leading to the Great Depression?",
+        "o": ["1910s", "1920s", "1930s", "1940s"],
+        "a": "1920s"
+      },
+      {
+        "q": "Which ancient Greek philosopher was the teacher of Alexander the Great?",
+        "o": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+        "a": "Aristotle"
+      },
+      {
+        "q": "What was the primary goal of the Crusades?",
+        "o": ["Expanding Trade Routes", "Discovering New Lands", "Recapturing the Holy Land", "Establishing Republics"],
+        "a": "Recapturing the Holy Land"
+      },
+      {
+        "q": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "o": ["Amelia Earhart", "Bessie Coleman", "Sally Ride", "Jacqueline Cochran"],
+        "a": "Amelia Earhart"
+      },
+      {
+        "q": "The Declaration of Independence was ratified in which year?",
+        "o": ["1770", "1776", "1783", "1789"],
+        "a": "1776"
+      },
+      {
+        "q": "Which empire was known for its extensive road system and the city of Machu Picchu?",
+        "o": ["Aztec", "Maya", "Inca", "Olmec"],
+        "a": "Inca"
+      },
+      {
+        "q": "The Korean War primarily occurred during which years?",
+        "o": ["1945-1949", "1950-1953", "1960-1964", "1970-1975"],
+        "a": "1950-1953"
+      },
+      {
+        "q": "What major event is associated with 'Black Tuesday' in American history?",
+        "o": ["Pearl Harbor Attack", "Stock Market Crash", "Assassination of JFK", "End of Civil War"],
+        "a": "Stock Market Crash"
+      },
+      {
+        "q": "Who was the first person to orbit the Earth?",
+        "o": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+        "a": "Yuri Gagarin"
+      },
+      {
+        "q": "What was the name of the racial segregation laws enforced in the Southern US?",
+        "o": ["Apartheid", "Jim Crow Laws", "Black Codes", "Reconstruction Acts"],
+        "a": "Jim Crow Laws"
       }
     ],
     "Pop Culture": [
@@ -153,6 +448,156 @@
         "q": "What is the name of the fictional detective created by Arthur Conan Doyle?",
         "o": ["Sherlock Holmes", "Hercule Poirot", "Miss Marple", "Philip Marlowe"],
         "a": "Sherlock Holmes"
+      },
+      {
+        "q": "Who directed the films 'Jaws' and 'E.T. the Extra-Terrestrial'?",
+        "o": ["George Lucas", "Martin Scorsese", "Steven Spielberg", "Quentin Tarantino"],
+        "a": "Steven Spielberg"
+      },
+      {
+        "q": "Which singer is known as the 'Queen of Pop'?",
+        "o": ["Beyoncé", "Lady Gaga", "Madonna", "Mariah Carey"],
+        "a": "Madonna"
+      },
+      {
+        "q": "What year was the first 'Harry Potter' book, 'The Philosopher's Stone,' published?",
+        "o": ["1995", "1997", "1999", "2001"],
+        "a": "1997"
+      },
+      {
+        "q": "Which TV sitcom is set in the fictional city of Springfield?",
+        "o": ["Family Guy", "South Park", "The Simpsons", "Futurama"],
+        "a": "The Simpsons"
+      },
+      {
+        "q": "Which superhero is known as the 'Man of Steel'?",
+        "o": ["Batman", "Superman", "Spider-Man", "Captain America"],
+        "a": "Superman"
+      },
+      {
+        "q": "What popular video game features characters like Mario and Luigi?",
+        "o": ["Pokémon", "The Legend of Zelda", "Super Mario Bros.", "Final Fantasy"],
+        "a": "Super Mario Bros."
+      },
+      {
+        "q": "Who played the character James Bond in 'Dr. No' (1962), the first film in the series?",
+        "o": ["Roger Moore", "Pierce Brosnan", "Sean Connery", "Daniel Craig"],
+        "a": "Sean Connery"
+      },
+      {
+        "q": "Which musical artist released the album 'Thriller' in 1982?",
+        "o": ["Prince", "Michael Jackson", "Madonna", "Whitney Houston"],
+        "a": "Michael Jackson"
+      },
+      {
+        "q": "What is the name of the fictional continent where 'Game of Thrones' primarily takes place?",
+        "o": ["Essos", "Westeros", "Middle-earth", "Narnia"],
+        "a": "Westeros"
+      },
+      {
+        "q": "Which social media platform was originally called 'The Facebook'?",
+        "o": ["Twitter", "Instagram", "Facebook", "Snapchat"],
+        "a": "Facebook"
+      },
+      {
+        "q": "Who famously broke the internet with a 2014 magazine cover (paper magazine)?",
+        "o": ["Taylor Swift", "Kim Kardashian", "Britney Spears", "Jennifer Lopez"],
+        "a": "Kim Kardashian"
+      },
+      {
+        "q": "What movie features the quote: 'May the Force be with you'?",
+        "o": ["Star Trek", "Guardians of the Galaxy", "Star Wars", "The Matrix"],
+        "a": "Star Wars"
+      },
+      {
+        "q": "What dance move was popularized by the 'Gangnam Style' music video?",
+        "o": ["The Twist", "The Macarena", "The Pony Dance", "The Horse Ride Dance"],
+        "a": "The Horse Ride Dance"
+      },
+      {
+        "q": "Which actress starred as Katniss Everdeen in 'The Hunger Games' film series?",
+        "o": ["Emma Watson", "Shailene Woodley", "Jennifer Lawrence", "Kristen Stewart"],
+        "a": "Jennifer Lawrence"
+      },
+      {
+        "q": "Which band released the iconic song 'Bohemian Rhapsody'?",
+        "o": ["The Beatles", "Led Zeppelin", "Queen", "Pink Floyd"],
+        "a": "Queen"
+      },
+      {
+        "q": "What is the name of the toy franchise that features transforming robots, such as Optimus Prime?",
+        "o": ["G.I. Joe", "Power Rangers", "Transformers", "Voltron"],
+        "a": "Transformers"
+      },
+      {
+        "q": "In the Marvel Cinematic Universe, what is Captain America's real name?",
+        "o": ["Tony Stark", "Steve Rogers", "Bruce Banner", "Peter Parker"],
+        "a": "Steve Rogers"
+      },
+      {
+        "q": "Which reality TV show popularized the phrase 'You're Fired!'?",
+        "o": ["Survivor", "American Idol", "The Apprentice", "Big Brother"],
+        "a": "The Apprentice"
+      },
+      {
+        "q": "What cartoon character lives in a pineapple under the sea?",
+        "o": ["Patrick Star", "Squidward Tentacles", "SpongeBob SquarePants", "Dora the Explorer"],
+        "a": "SpongeBob SquarePants"
+      },
+      {
+        "q": "The iconic album cover featuring a prism splitting light belongs to which band?",
+        "o": ["The Doors", "Pink Floyd", "Fleetwood Mac", "The Rolling Stones"],
+        "a": "Pink Floyd"
+      },
+      {
+        "q": "Which singer's fans are often referred to as 'Beliebers'?",
+        "o": ["Justin Timberlake", "Harry Styles", "Justin Bieber", "Shawn Mendes"],
+        "a": "Justin Bieber"
+      },
+      {
+        "q": "The movie 'Pulp Fiction' was released in which decade?",
+        "o": ["1980s", "1990s", "2000s", "2010s"],
+        "a": "1990s"
+      },
+      {
+        "q": "Who hosts the late-night talk show 'The Tonight Show Starring...'?",
+        "o": ["Jimmy Kimmel", "Stephen Colbert", "Seth Meyers", "Jimmy Fallon"],
+        "a": "Jimmy Fallon"
+      },
+      {
+        "q": "Which popular fictional wizard attends Hogwarts School of Witchcraft and Wizardry?",
+        "o": ["Gandalf", "Merlin", "Harry Potter", "Frodo Baggins"],
+        "a": "Harry Potter"
+      },
+      {
+        "q": "What is the name of the family at the center of the popular reality TV show 'Keeping Up with the...'?",
+        "o": ["Jenner", "Kardashian", "Hadid", "Hilton"],
+        "a": "Kardashian"
+      },
+      {
+        "q": "The term 'meme' was first coined by which evolutionary biologist?",
+        "o": ["Charles Darwin", "Richard Dawkins", "Stephen Jay Gould", "E.O. Wilson"],
+        "a": "Richard Dawkins"
+      },
+      {
+        "q": "Which animated movie has the highest worldwide gross revenue of all time (as of the current date and excluding re-releases)?",
+        "o": ["Frozen II", "Toy Story 4", "The Lion King (2019)", "Zootopia"],
+        "a": "The Lion King (2019)"
+      },
+      {
+        "q": "Which actress is famous for her role as Rachel Green in the TV show 'Friends'?",
+        "o": ["Courteney Cox", "Lisa Kudrow", "Jennifer Aniston", "Halle Berry"],
+        "a": "Jennifer Aniston"
+      },
+      {
+        "q": "Who wrote the novel that inspired the film 'The Godfather'?",
+        "o": ["Mario Puzo", "Stephen King", "J.R.R. Tolkien", "F. Scott Fitzgerald"],
+        "a": "Mario Puzo"
+      },
+      {
+        "q": "What popular 1980s video game involves eating dots and avoiding ghosts?",
+        "o": ["Tetris", "Space Invaders", "Pac-Man", "Donkey Kong"],
+        "a": "Pac-Man"
       }
     ]
 }
